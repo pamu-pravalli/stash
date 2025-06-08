@@ -1,2 +1,1 @@
-console.log("3")
-console.log("third")
+console.log("merged both")
